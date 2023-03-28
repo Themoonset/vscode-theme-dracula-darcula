@@ -55,7 +55,7 @@ dracula:
     - &UI_ACTIVE_BORDER "#4A88C7"
   editor:
     - &EDITOR_NON_TEXT "#373737"
-    - &EDITOR_COMMENT "#5E6D9C"
+    - &EDITOR_COMMENT "#829A94"
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
